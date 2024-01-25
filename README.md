@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything! Feel free to contact me! 👻
 - 🤔 I’m looking for help with improving my styles ( CSS )
 - 💬 Ask me about ... my dog 🐕 | video games 🎮 | musicals/theater 🎭
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Email]: dslayton1998@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... 
 
