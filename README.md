@@ -8,6 +8,8 @@
 - 📫 How to reach me: dslayton1998@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+---
+  
 https://img.shields.io/badge/LinkedIn-blue
   
 ---
