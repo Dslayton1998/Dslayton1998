@@ -1,5 +1,4 @@
 ### Hi there 👋 My name is Derek Slayton, I'm a Full Stack Software Engineer and App Academy graduate! (Aug 2023 Cohort) 
-<img src="https://komarev.com/ghpvc/?username=Dslayton1998&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on a few projects ( Dumblr, Jinglfy, My-Meetup )
 - 🌱 I’m currently learning Django 🧑‍💻
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-  
+<img src="https://komarev.com/ghpvc/?username=Dslayton1998&style=flat-square&color=blue" alt=""/>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
