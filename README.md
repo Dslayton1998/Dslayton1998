@@ -9,7 +9,10 @@
 - 😄 Pronouns: He/Him
 
 <div id="badges">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/derek-slayton-078b672aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Dslayton1998&style=flat-square&color=blue" alt=""/>
 </div>
   
 ---
