@@ -28,7 +28,6 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Dslayton1998
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dslayton1998&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
