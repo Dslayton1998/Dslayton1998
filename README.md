@@ -7,9 +7,10 @@
 - 💬 Ask me about ... my dog 🐕 | video games 🎮 | musicals/theater 🎭
 - 📫 How to reach me: dslayton1998@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ...
+https://img.shields.io/badge/LinkedIn-blue
+  
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -25,9 +26,9 @@
 </div>
 
 ---
-
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dslayton1998&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dslayton1998&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
