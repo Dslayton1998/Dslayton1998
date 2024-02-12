@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 ---
   
-https://img.shields.io/badge/LinkedIn-blue
+[https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
   
 ---
 ### :hammer_and_wrench: Languages and Tools :
