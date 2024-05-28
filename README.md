@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Derek Slayton, I'm a Full Stack Software Engineer and App Academy graduate! (Aug 2023 Cohort) 
 
-- 🔭 I’m currently working on a few projects ( Dumblr, Jinglfy, My-Meetup )
-- 🌱 I’m currently learning Django 🧑‍💻
+- 🔭 I’m currently working on Dumblr (Check out my repo!)
+- 🌱 I’m currently learning ThreeJS 🧑‍💻
 - 👯 I’m looking to collaborate on anything! Feel free to contact me! 👻
 - 🤔 I’m looking for help with improving my styles ( CSS )
 - 💬 Ask me about ... my dog 🐕 | video games 🎮 | musicals/theater 🎭
